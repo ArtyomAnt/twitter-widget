@@ -1,0 +1,13 @@
+{
+    "name": "romand/ak-twitter-widget",
+    "type": "wp-plugin",
+    "require": {
+        "jublonet/codebird-php": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Artsem Kashel",
+            "email": "artem.kashel@gmail.com"
+        }
+    ]
+}
